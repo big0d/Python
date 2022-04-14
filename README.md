@@ -6,7 +6,7 @@
 
 Repositório contendo exercícios em Python e arquivos soltos para testes/treinos com a linguagem.
 
-Alguns exercícios foram retirados da playlist do Curso em Vídeo, por Gustavo Guanabara, e outros foram encontrados aleatoriamente pela internet e em canais gringos.
+A maior parte dos exercícios foi retirada da playlist do Curso em Vídeo, por Gustavo Guanabara, e outros foram encontrados aleatoriamente pela internet e em canais gringos.
 
 - Playlist exercícios (CEV): https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
 - Full Course for Beginners (freeCodeCamp.org): https://youtu.be/rfscVS0vtbw
