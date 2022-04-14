@@ -10,3 +10,4 @@ A maior parte dos exercícios foi retirada da playlist do Curso em Vídeo, por G
 
 - Playlist exercícios (CEV): https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
 - Full Course for Beginners (freeCodeCamp.org): https://youtu.be/rfscVS0vtbw
+- Learning Python 5th (Mark Lutz): https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf
