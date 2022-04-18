@@ -6,7 +6,7 @@ if v2 < v1 and v2 < v3:
     menor = v2
 elif v3 < v1 and v3 < v2:
     menor = v3
-maior = v1
+    maior = v1
 elif v2 > v1 and v2 > v3:
     maior = v2
 elif v3 > v1 and v3 > v2:
